@@ -1,0 +1,10 @@
+Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+  ⦁	The client, DrivePass, wants a new system built that focuses on training students for the driving test at their local departments. Specifically, to be able to take online classes and practice tests, and on-the-road training if applicable.  
+What did you do particularly well?
+  ⦁ I think my performance of the UML diagrams are something I did extremely well, of course brainstorming and idealizing the program in vague words is one thing, but breaking down processes into exact workflow planograms I think I excelled at.
+If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+  ⦁ I think the first project's papers, when thinking about programming I think using words and ideas are very hard to process in a large format. More precise, broken down, exact formalities work better in my mind. I would definitely improve and try my best to better phrase what is exactly needed.
+How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
+  ⦁ Because of the small-scale DriverPass is, and the future hopes of growing and developing more in regards to other packages and expanding locations, it is important to think about the basics that could help those fundamental functions to use later; like account information and the process of filling appoinments. You don't want something so precise that you cannot change later, if there is the hope of growth. 
+How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+  ⦁ I think I approach designing software in the sense of prototyping and using agile methods; for example, like priotirizing functions and making diagrams for review to get feedback and to validate concepts. I think in the future, I would like to try building, testing, and refining. It would be a step further than just prototyping.
